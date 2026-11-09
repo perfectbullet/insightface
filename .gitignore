@@ -120,3 +120,6 @@ server/test-results/
 
 .DS_Store
 ._*
+
+# ===== Prism InsightFace Demo outputs (do NOT commit) =====
+output/
